@@ -3,7 +3,7 @@
 title: Prof. Nguyễn Đức Dũng
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Duc Dung
@@ -11,7 +11,7 @@ last_name: Nguyen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✅
 
 # Is this the primary user of the site?
 superuser: true
